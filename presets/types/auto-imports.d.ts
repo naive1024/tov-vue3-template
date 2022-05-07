@@ -127,7 +127,7 @@ declare global {
   const useCurrentElement: typeof import('@vueuse/core')['useCurrentElement']
   const useCycleList: typeof import('@vueuse/core')['useCycleList']
   const useDark: typeof import('@vueuse/core')['useDark']
-  const useDarks: typeof import('/Code/Work/tov-template/src/composables/useDarks')['default']
+  const useDarks: typeof import('/kltb/scmmangli/src/composables/useDarks')['default']
   const useDateFormat: typeof import('@vueuse/core')['useDateFormat']
   const useDebounce: typeof import('@vueuse/core')['useDebounce']
   const useDebouncedRefHistory: typeof import('@vueuse/core')['useDebouncedRefHistory']
